@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m Fezile Chelebiyeva</h1>
-<h3 align="center">Frontend developer from Azerbaijan</h3>
+
 - 🌱 I’m currently learning <b>front end development</b> at code academy.<br/>
 - 📫 How to reach me fezile.celebiyevaa@gmail.com
 
