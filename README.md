@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m Fezile Chelebiyeva</h1>
 
-- 🌱 I’m currently learning <b>front end development</b> at code academy.<br/>
+- 🌱 I’m currently learning <b>JavaScript, React.<br/>
 - 📫 How to reach me fezile.celebiyevaa@gmail.com
 
 <h3 align="left">Connect with me:</h3>
